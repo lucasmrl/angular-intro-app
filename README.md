@@ -1,3 +1,3 @@
-# angular-gxiw2j-op7sah
+# Angular - "Getting Started" App
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-gxiw2j-op7sah)
+[E-commerce App from the "Getting Started" Angular Docs ⚡️](https://angular.io/start)
